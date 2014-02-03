@@ -41,5 +41,5 @@ There aren't any filters or anything like that. If you know how to `apply_filter
 
 ## Changelog
 
-= 1.0 =
-* Initial release
+### 1.0
+Initial release
