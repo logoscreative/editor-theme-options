@@ -27,7 +27,7 @@ if ( ! defined( 'WPINC' ) ) {
 	die;
 }
 
-require_once( plugin_dir_path( __FILE__ ) . 'public/class-editor-theme-options.php' );
+require_once( plugin_dir_path( __FILE__ ) . 'public/class-editor-permissions.php' );
 
 /*
  * Register hooks that are fired when the plugin is activated or deactivated.
